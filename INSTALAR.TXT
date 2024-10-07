@@ -1,0 +1,5 @@
+precisa instalar:
+
+pip install flet
+
+extensão "sqlite viewer"
